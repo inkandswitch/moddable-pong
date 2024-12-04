@@ -1,0 +1,3 @@
+[submodule "addons/patchwork"]
+	path = addons/patchwork
+	url = git@github.com:inkandswitch/patchwork-godot-plugin.git

@@ -10,6 +10,20 @@ writing any code.
 
 The `doc/MODS.md` file details the mods that have been made available.
 
+## Running patchwork plugin
+
+You need to init the Patchwork submodule
+
+```
+git submodule init
+```
+
+Starting godot with the following command ensures that the rust plugin is always rebuild
+
+```
+run.sh
+```
+
 ## Contributing
 
 We encourage contributions that continue to address the intended audience and
